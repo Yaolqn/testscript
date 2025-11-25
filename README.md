@@ -1,4 +1,4 @@
-gantt
+	gantt
     title 项目任务进度表
     dateFormat  YYYY/MM/DD
     axisFormat  %m/%d
